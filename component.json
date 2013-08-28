@@ -1,0 +1,12 @@
+{
+  "name": "styl-vars-test",
+  "repo": "mnmly/styl-vars-test",
+  "description": "Styl variables test",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "paths": ["client"],
+  "local": ["boot"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "styl-var-test",
+  "dependencies": {
+    "component-builder": "~0.8.3",
+    "component-styl": "~1.2.2",
+    "rework-vars": "~1.0.1",
+    "rework-math": "~1.0.1"
+  }
+}

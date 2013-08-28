@@ -1,0 +1,5 @@
+{
+  "name": "footer-view",
+  "dependencies": {},
+  "styles":["footer-view.styl"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "boot",
+  "dependencies": {},
+  "styles":["boot.styl"],
+  "local": ["footer-view", "nav"]
+}
